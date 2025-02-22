@@ -1,0 +1,8 @@
+In the process of neatening up the code.
+
+Run the following to create a jpeg file:
+- Create the executable:  make -f Makefile 2
+- Run the executable:     ./Assignment2 --in Static3D/test.ray --out Static3D/test.jpeg
+
+
+
