@@ -1,5 +1,0 @@
-In the process of neatening up the codebase — right now it's a mess.
-
-Run the following to create a jpeg file:
-- Create the executable:  make -f Makefile2
-- Run the executable:     ./RayTracer --in RayFiles/test.ray --out RayFiles/test.jpeg
